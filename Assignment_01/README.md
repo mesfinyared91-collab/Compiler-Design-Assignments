@@ -53,6 +53,17 @@ Overall, **Assignment_01** strengthens core compiler design skills by integratin
 It provides a solid foundation for advanced topics such as **parsing algorithms**, **semantic analysis**, and **full compiler implementation**.
 
 ---
+## 📂 Folder Structure
+
+Assignment_01/
+├── 📁 Question1
+│   └── 📄 README.md        # Predictive Parsing (Theory)
+├── 📁 Question2
+│   ├── 💻 identifier.cpp  # C++ program to count valid identifiers
+│   └── 📄 README.md       # Program explanation
+├── 📁 Question3
+│   └── 📄 README.md       # Grammar derivation and parse tree
+└── 📄 README.md           # Assignment overview and summary
 
 ## ⭐ Note
 This repository is created for **academic and learning purposes** as part of the Compiler Design course.
