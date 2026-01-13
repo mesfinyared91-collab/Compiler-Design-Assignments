@@ -27,7 +27,8 @@ S → 1S0 | 10
 
 The parse tree represents how the input string is derived **step by step** from the grammar.  
 Reading the leaves from left to right produces the original string: `1100`.
-<img width="1536" height="1024" alt="ChatGPT Image Jan 12, 2026, 01_49_38 AM" src="https://github.com/user-attachments/assets/1232c935-2c2b-493e-a03e-5dcc9600a693" />
+<img width="1536" height="1024" alt="ChatGPT Image Jan 12, 2026, 01_49_38 AM" src="https://github.com/user-attachments/assets/8c428149-93be-45ac-98de-cc486c6b5e6f" />
+
 
 
 
