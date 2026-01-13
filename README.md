@@ -6,7 +6,7 @@ It highlights both **conceptual understanding** and **practical implementation**
 
 ---
 
-## 👤 Author Details
+## 👤 Student Details
 - **Name:** Yared Mesfin  
 - **Student ID:** 1411368  
 - **Department:** Information Technology  
@@ -34,19 +34,6 @@ Each assignment is written with **clarity**, **accuracy**, and **academic consis
 - Step-by-step problem solving  
 - C++ implementations for practical tasks  
 - Clear documentation for every assignment  
-
----
-
-## 📂 Assignment Organization
-
-
-Compiler-Design-Assignments/
-│
-├── 📁 Assignment_01 # Syntax Analysis and Parsing
-├── 📁 Assignment_02 # Lexical Concepts and Token Analysis
-├── 📁 Assignment_03 # Semantic Concepts and Grammar Analysis
-└── 📄 README.md # Repository documentation
-
 
 ---
 
