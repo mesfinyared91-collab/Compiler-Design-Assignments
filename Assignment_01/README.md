@@ -47,21 +47,6 @@ This strengthens understanding of:
 
 ---
 
-## 📂 Folder Structure
-
-
-Assignment_01/
-├── 📁 Question1
-│ └── 📄 README.md # Predictive Parsing (Theory)
-├── 📁 Question2
-│ ├── 💻 identifier.cpp # C++ program to count valid identifiers
-│ └── 📄 README.md # Program explanation
-├── 📁 Question3
-│ └── 📄 README.md # Grammar derivation and parse tree
-└── 📄 README.md # Assignment overview and summary
-
-
----
 
 ## ✅ Conclusion
 Overall, **Assignment_01** strengthens core compiler design skills by combining:
