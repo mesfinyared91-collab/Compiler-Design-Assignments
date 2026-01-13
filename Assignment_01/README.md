@@ -53,6 +53,10 @@ Overall, **Assignment_01** strengthens core compiler design skills by integratin
 It provides a solid foundation for advanced topics such as **parsing algorithms**, **semantic analysis**, and **full compiler implementation**.
 
 ---
+
+
+## ⭐ Note
+This repository is created for **academic and learning purposes** as part of the Compiler Design course.
 ## 📂 Folder Structure
 
 Assignment_01/
@@ -64,7 +68,4 @@ Assignment_01/
 ├── 📁 Question3
 │   └── 📄 README.md       # Grammar derivation and parse tree
 └── 📄 README.md           # Assignment overview and summary
-
-## ⭐ Note
-This repository is created for **academic and learning purposes** as part of the Compiler Design course.
 
