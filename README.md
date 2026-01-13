@@ -9,7 +9,7 @@ It highlights both **conceptual understanding** and **practical implementation**
 ## 👤 Student Details
 - **Name:** Yared Mesfin  
 - **Student ID:** 1411368  
-- **Department:** Information Technology  
+- **Department:** CS 
 - **Institution:** Bahir Dar University  
 - **Course:** Principles of Compiler Design  
 
