@@ -10,15 +10,6 @@ Semantic Rules &amp; Error Detection  Switch Completeness
 
 ---
 
-### 👤 Student Information
-- **Name:** Yared Mesfin  
-- **Student ID:** 1411368  
-- **Course:** Compiler Design  
-- **Department:** CS  
-- **Institution:** Bahir Dar University  
-
----
-
 ## 1️⃣ Introduction
 
 In compiler design, **semantic analysis** is the phase that checks whether a program makes logical sense after it has passed lexical and syntax analysis. While syntax analysis ensures that the program follows grammatical rules, semantic analysis ensures **correct meaning**.
